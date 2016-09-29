@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 guys
+=======
+hello
+>>>>>>> new_commit
